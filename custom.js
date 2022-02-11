@@ -18,7 +18,7 @@ _/ ____\___________  _/  |_|  |__   ____     ______ ___________|__|______/  |_
 // License: MIT
 
 (function() {
-  var ASSET = "https://i.ytimg.com/vi/Seq_5fNyB7Y/mqdefault.jpg";
+  var ASSET = "https://i.postimg.cc/1XS6Rbrw/mqdefault.jpg";
   var WIDTH = 212;
   var HEIGHT = 104;
   var VERT_DIRECTIONS = ["up", "down"];
